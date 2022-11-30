@@ -1,7 +1,5 @@
 {
-  "name": "start_dev",
   "version": "2.0.0",
-  "description": "start_dev - Front-end developing start template",
   "main": "gulpfile.js",
   "license": "ISC",
   "jshintConfig": {
